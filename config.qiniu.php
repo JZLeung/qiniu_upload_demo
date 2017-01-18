@@ -1,0 +1,6 @@
+<?php 
+
+define('QINIU_SECRET_KEY', 'YOUR_SK');
+define('QINIU_ACCESS_KEY', 'YOUR_AK');
+define('QINIU_DOMAIN', 'YOUR_QINIU_DOMAIN');
+define('QINIU_BUCKET', 'YOUR_BUCKET_NAME');
